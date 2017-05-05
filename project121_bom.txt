@@ -1,0 +1,23 @@
+Partlist exported from /usr/local/google/home/abf/eagle/project121/project121.sch at 7/25/16 5:26 PM
+
+Part    Value         Device        Package       Description                
+AVR_VCC               PINHD-1X3     1X03          PIN HEADER                 
+C1      2.2uF         C-EUC0201     C0201         CAPACITOR, European symbol 
+C2      1uF           C-EUC0201     C0201         CAPACITOR, European symbol 
+C3      2.2uF         C-EUC0201     C0201         CAPACITOR, European symbol 
+ISP                   PINHD-1X6     1X06          PIN HEADER                 
+L1      2.2uH         L-USL2012C    L2012C        INDUCTOR, American symbol  
+R1      2.2k          R-US_R0201    R0201         RESISTOR, American symbol  
+R2      2.2k          R-US_R0201    R0201         RESISTOR, American symbol  
+R3      2.2k          R-US_R0201    R0201         RESISTOR, American symbol  
+SCL                   PINHD-1X2     1X02          PIN HEADER                 
+SDA                   PINHD-1X2     1X02          PIN HEADER                 
+U$1     TLH-5903/P    TLH-5903/P    TLH-5903/P                               
+U2      TPS62230DRYT  TPS62230DRYT  TPS62230DRYT                             
+U3      ATTINY4       ATTINY4       ATTINY4                                  
+U4      74LVC1G3157   74LVC1G3157   74LVC1G3157                              
+U5      PCA8565TS     PCA8565TS     PCA8565TS                                
+U6      SI7051-A20-IM SI7051-A20-IM SI7051-A20-IM                            
+U7      SI7051-A20-IM SI7051-A20-IM SI7051-A20-IM                            
+U8      M24M02-A125   M24M02-A125   M24M02-A124                              
+U9      M24M02-A125   M24M02-A125   M24M02-A124                              
